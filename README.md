@@ -14,12 +14,12 @@ pykinect2 :  https://github.com/Kinect/PyKinect2/tree/master/pykinect2
 
 Install [Kinect for Windows SDK v2](http://aka.ms/k4wv2sdk)
 
-## GUI
-
-![gui](data/gui.png)
-
 ## Run
 
 ```Shell
 python ui1.py
 ```
+
+## GUI
+
+![gui](data/gui.png)
