@@ -1,0 +1,4 @@
+pykinect2
+numpy
+python-opencv
+pyQt5

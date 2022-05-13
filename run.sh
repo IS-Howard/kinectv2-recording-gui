@@ -1,0 +1,1 @@
+C:/Users/x/.conda/envs/kinect/python.exe ui1.py
