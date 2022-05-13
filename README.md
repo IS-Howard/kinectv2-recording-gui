@@ -17,3 +17,9 @@ Install [Kinect for Windows SDK v2](http://aka.ms/k4wv2sdk)
 ## GUI
 
 ![gui](data/gui.png)
+
+## Run
+
+```Shell
+python ui1.py
+```
